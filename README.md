@@ -6,6 +6,8 @@
 
 ## 📍About me:
 
+* i'm currently studying in Multi Data Palembang University
+* 
 <!--
 **AngelPtr/AngelPtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
