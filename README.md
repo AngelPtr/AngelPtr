@@ -10,8 +10,6 @@
 * 🌱i’m currently learning HTML, Python & Java
 * 📩contact me by e-mail angelina2021@mhs.mdp.ac.id
 
-##📍Languages and Tools:
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
