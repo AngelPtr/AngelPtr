@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/c7/b0/5a/c7b05a2bcc7d09c7f8454bdf1991da96.png"/>
 </div><br />
 
-<h1 align="center">Hi, I'm Angelina</h1> 👋
+<h1 align="center">Hi, I'm Angelina 👋</h1>
 
 <!--
 **AngelPtr/AngelPtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
