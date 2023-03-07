@@ -3,7 +3,7 @@
 </div><br />
 
 <h1 align="center"></h1>
-<h1 align="center">Hi, I'm Angelina 👋</h1>
+<h1 style align="center">Hi, I'm Angelina 👋</h1>
 
 ## 📍About me:
 
