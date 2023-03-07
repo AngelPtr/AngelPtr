@@ -7,7 +7,7 @@
 ## 📍About me:
 
 * i'm currently studying in Multi Data Palembang University
-* 
+* contact me by e-mail angelina2021@mhs.mdp.ac.id
 <!--
 **AngelPtr/AngelPtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
